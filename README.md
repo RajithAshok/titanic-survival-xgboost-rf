@@ -41,5 +41,3 @@ pip install -r requirements.txt
 ---
 
 Feel free to open issues or submit pull requests for improvements!
-
-5. Install dependencies:
